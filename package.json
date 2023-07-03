@@ -1,6 +1,6 @@
 {
   "name": "@ludlovian/vm1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "vm1 handler",
   "private": true,
   "type": "module",
